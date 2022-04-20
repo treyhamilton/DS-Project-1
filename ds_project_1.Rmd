@@ -1,12 +1,14 @@
 ---
 title: "DS-Project-1"
-author: "Trey Hamilton"
+author: "Chi Do, Ian Doran, Trey Hamilton, Seth Sharp"
 date: "4/20/2022"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+## R Markdown
 
 
