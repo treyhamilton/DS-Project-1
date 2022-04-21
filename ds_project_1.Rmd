@@ -18,7 +18,7 @@ Aim or purpose of research - The purpose of this project is to better understand
 
 Method used - Several methods used to aid us in deriving several conclusions were exploratory data analysis in order to better format and prepare our data for interpretation and various linear modeling strategies. 
 
-Findings/results - The results of this project directly correlate various worldwide activity level declines as a direct result of the incline of the Covid-19 pandemic. 
+Findings/results - The results of this project directly correlate with various worldwide activity level declines as a direct result of the incline of the Covid-19 pandemic. 
 
 
 
