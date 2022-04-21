@@ -3,12 +3,22 @@ title: "DS-Project-1"
 author: "Chi Do, Ian Doran, Trey Hamilton, Seth Sharp"
 date: "4/20/2022"
 output: pdf_document
+engine: latex
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+Abstract:
+
+Background - The economic and social disruption caused by the Covid-19 pandemic has and is continuing to spread its presence worldwide. Covid-19 has made a lasting impact in the ways in which we conduct our own individual lives and is a major factor in determining the activities we choose to involve ourselves in amidst a widespread pandemic. 
+
+Aim or purpose of research - The purpose of this project is to better understand the immediate and lasting impact Covid-19 has had on various activity levels worldwide. 
+
+Method used - Several methods used to aid us in deriving several conclusions were exploratory data analysis in order to better format and prepare our data for interpretation and various linear modeling strategies. 
+
+Findings/results - The results of this project directly correlate various worldwide activity level declines as a direct result of the incline of the Covid-19 pandemic. 
+
 
 
